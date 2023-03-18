@@ -1,1 +1,431 @@
-<mxfile host="app.diagrams.net" modified="2023-03-18T06:32:59.252Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" version="21.0.7" etag="X7H1g384zi4NJKu4hfgy" type="github"><diagram name="第 1 页" id="NzLEQly0ozK3OL-0dUnw">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-18T07:48:35.519Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="9J7brzY7l-YIMtlbu-G0" version="21.0.7" type="github">
+  <diagram name="第 1 页" id="NzLEQly0ozK3OL-0dUnw">
+    <mxGraphModel dx="3580" dy="2087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-1" target="m0d5d0jT4baNKPK9-l3e-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-1" value="秦汉北方做法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="360" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-2" target="m0d5d0jT4baNKPK9-l3e-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="420" />
+              <mxPoint x="620" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-35" value="南方本地传统" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="m0d5d0jT4baNKPK9-l3e-17">
+          <mxGeometry x="0.1844" y="-1" relative="1" as="geometry">
+            <mxPoint x="-1" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-2" target="m0d5d0jT4baNKPK9-l3e-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-2" value="秦汉江南本土做法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-6" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;rounded=1;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-3" target="m0d5d0jT4baNKPK9-l3e-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-8" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;rounded=1;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-3" target="m0d5d0jT4baNKPK9-l3e-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="220" />
+              <mxPoint x="370" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-3" value="井干架构" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-5" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;rounded=1;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-4" target="m0d5d0jT4baNKPK9-l3e-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-9" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;rounded=1;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-4" target="m0d5d0jT4baNKPK9-l3e-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="340" />
+              <mxPoint x="370" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-4" value="穿斗结构" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-7" target="m0d5d0jT4baNKPK9-l3e-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-7" value="东汉北方部分陶楼&lt;br&gt;等“穿斗”做法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="400" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-10" target="m0d5d0jT4baNKPK9-l3e-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-10" value="“土墙木顶”、半穴居逻辑建筑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-11" target="m0d5d0jT4baNKPK9-l3e-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-11" value="木骨泥墙、干栏剿居逻辑建筑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-14" target="m0d5d0jT4baNKPK9-l3e-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-34" value="部分构架形式" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="m0d5d0jT4baNKPK9-l3e-20">
+          <mxGeometry x="-0.2464" y="2" relative="1" as="geometry">
+            <mxPoint x="-2" y="-36" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-14" target="m0d5d0jT4baNKPK9-l3e-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-14" value="魏晋北方建筑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="560" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-29" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-16" target="m0d5d0jT4baNKPK9-l3e-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-33" value="线条&lt;br&gt;装饰&lt;br&gt;细节" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" vertex="1" connectable="0" parent="m0d5d0jT4baNKPK9-l3e-29">
+          <mxGeometry x="-0.1738" relative="1" as="geometry">
+            <mxPoint y="-28" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-38" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-16" target="m0d5d0jT4baNKPK9-l3e-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-41" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-16" target="m0d5d0jT4baNKPK9-l3e-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="950" y="310" />
+              <mxPoint x="950" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-56" value="细节&lt;br&gt;装饰" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="m0d5d0jT4baNKPK9-l3e-41">
+          <mxGeometry x="0.2792" relative="1" as="geometry">
+            <mxPoint y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-44" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-16" target="m0d5d0jT4baNKPK9-l3e-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="930" y="290" />
+              <mxPoint x="930" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-45" value="或者有" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="m0d5d0jT4baNKPK9-l3e-44">
+          <mxGeometry x="-0.1449" y="-2" relative="1" as="geometry">
+            <mxPoint y="-22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-16" value="南朝官方建筑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="720" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-40" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-21" target="m0d5d0jT4baNKPK9-l3e-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-21" value="南朝江南地方建筑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="720" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-23" value="？？？" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="560" y="260" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-31" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-25" target="m0d5d0jT4baNKPK9-l3e-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-32" value="架构形式" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="m0d5d0jT4baNKPK9-l3e-31">
+          <mxGeometry x="0.1738" relative="1" as="geometry">
+            <mxPoint x="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-25" value="北朝官方建筑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="720" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-37" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-28" target="m0d5d0jT4baNKPK9-l3e-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-43" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-28" target="m0d5d0jT4baNKPK9-l3e-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-48" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-28" target="m0d5d0jT4baNKPK9-l3e-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-50" value="直接继承" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="m0d5d0jT4baNKPK9-l3e-48">
+          <mxGeometry x="0.2875" relative="1" as="geometry">
+            <mxPoint x="-12" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-28" value="北朝末、唐初&lt;br&gt;北方殿堂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="930" y="120" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-55" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-36" target="m0d5d0jT4baNKPK9-l3e-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-57" value="细节&lt;br&gt;装饰" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="m0d5d0jT4baNKPK9-l3e-55">
+          <mxGeometry x="0.08" relative="1" as="geometry">
+            <mxPoint y="22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-66" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-36" target="m0d5d0jT4baNKPK9-l3e-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-36" value="隋唐南方&lt;br&gt;官方建筑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-39" target="m0d5d0jT4baNKPK9-l3e-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-39" value="隋唐江南地方建筑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-47" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-42" target="m0d5d0jT4baNKPK9-l3e-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-49" value="直接继承" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="m0d5d0jT4baNKPK9-l3e-47">
+          <mxGeometry x="-0.1417" y="-2" relative="1" as="geometry">
+            <mxPoint y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-42" value="北朝末、唐初&lt;br&gt;北方厅堂" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-59" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-46" target="m0d5d0jT4baNKPK9-l3e-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-62" value="直接继承" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="m0d5d0jT4baNKPK9-l3e-59">
+          <mxGeometry x="0.3304" relative="1" as="geometry">
+            <mxPoint x="-9" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-60" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;rounded=1;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-46" target="m0d5d0jT4baNKPK9-l3e-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1440" y="225" />
+              <mxPoint x="1440" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-61" value="构架规章等" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="m0d5d0jT4baNKPK9-l3e-60">
+          <mxGeometry x="-0.4258" y="-6" relative="1" as="geometry">
+            <mxPoint x="64" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-46" value="五代北方建筑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="120" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-71" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-51" target="m0d5d0jT4baNKPK9-l3e-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-78" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-51" target="m0d5d0jT4baNKPK9-l3e-75">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1820" y="290" />
+              <mxPoint x="1820" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-79" value="不清楚普及具体时间" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="m0d5d0jT4baNKPK9-l3e-78">
+          <mxGeometry x="-0.3244" y="1" relative="1" as="geometry">
+            <mxPoint x="22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-83" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-51" target="m0d5d0jT4baNKPK9-l3e-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-86" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-51" target="m0d5d0jT4baNKPK9-l3e-84">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1660" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-96" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-51" target="m0d5d0jT4baNKPK9-l3e-80">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1610" y="260" as="sourcePoint" />
+            <mxPoint x="1990" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1960" y="260" />
+              <mxPoint x="1960" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-97" value="吸收制度和规范&lt;br&gt;但吸收细节有限" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="m0d5d0jT4baNKPK9-l3e-96">
+          <mxGeometry x="0.2985" y="1" relative="1" as="geometry">
+            <mxPoint x="8" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-51" value="北宋营造法式体系" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="200" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-52" target="m0d5d0jT4baNKPK9-l3e-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-52" value="五代十国江南&lt;br&gt;地方建筑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-65" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-53" target="m0d5d0jT4baNKPK9-l3e-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-53" value="五代十国南方&lt;br&gt;官方建筑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-58" target="m0d5d0jT4baNKPK9-l3e-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-58" value="辽代北方营造传统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-64" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-63" target="m0d5d0jT4baNKPK9-l3e-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-69" value="细部纹饰&lt;br&gt;结构规范" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="m0d5d0jT4baNKPK9-l3e-64">
+          <mxGeometry x="-0.166" relative="1" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-63" value="江淮地方营造传统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-73" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-67" target="m0d5d0jT4baNKPK9-l3e-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-67" target="m0d5d0jT4baNKPK9-l3e-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-67" value="北宋江南地方建筑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-77" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-70" target="m0d5d0jT4baNKPK9-l3e-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-70" value="南宋营造法式体系" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-76" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-72" target="m0d5d0jT4baNKPK9-l3e-75">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1820" y="420" />
+              <mxPoint x="1820" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-114" target="m0d5d0jT4baNKPK9-l3e-107">
+          <mxGeometry x="0.3333" relative="1" as="geometry">
+            <mxPoint x="1947" y="420" as="sourcePoint" />
+            <mxPoint x="2007" y="420" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-116" value="主要内容" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="m0d5d0jT4baNKPK9-l3e-109">
+          <mxGeometry x="-0.2878" relative="1" as="geometry">
+            <mxPoint x="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-72" target="m0d5d0jT4baNKPK9-l3e-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-72" value="南宋江南地方建筑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-75" target="m0d5d0jT4baNKPK9-l3e-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-95" value="规范化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="m0d5d0jT4baNKPK9-l3e-81">
+          <mxGeometry x="0.2344" y="1" relative="1" as="geometry">
+            <mxPoint x="-7" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-75" value="元代两淮地方建筑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-104" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-80" target="m0d5d0jT4baNKPK9-l3e-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-105" value="主要内容" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="m0d5d0jT4baNKPK9-l3e-104">
+          <mxGeometry x="0.0406" y="-1" relative="1" as="geometry">
+            <mxPoint y="17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-108" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-80" target="m0d5d0jT4baNKPK9-l3e-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-112" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-80" target="m0d5d0jT4baNKPK9-l3e-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-80" value="南京明官式&lt;br&gt;建筑制度" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-89" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-82" target="m0d5d0jT4baNKPK9-l3e-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-82" target="m0d5d0jT4baNKPK9-l3e-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-82" value="金官式建筑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-90" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-84">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1840" y="140.29032258064512" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-92" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-84" target="m0d5d0jT4baNKPK9-l3e-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-93" value="交互融合&lt;br&gt;但没有&lt;br&gt;完全同化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="m0d5d0jT4baNKPK9-l3e-92">
+          <mxGeometry x="-0.1432" y="-1" relative="1" as="geometry">
+            <mxPoint y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-84" value="金代地方建筑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-87" target="m0d5d0jT4baNKPK9-l3e-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-87" value="元代北方地方建筑体系" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="120" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-88" target="m0d5d0jT4baNKPK9-l3e-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-106" value="细部" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="m0d5d0jT4baNKPK9-l3e-99">
+          <mxGeometry x="-0.2872" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-88" value="元代“大都样”" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="200" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-102" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-94" target="m0d5d0jT4baNKPK9-l3e-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-94" value="北京明官式" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="2020" y="200" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-100" value="明代北方地方&lt;br&gt;营造系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2060" y="120" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-113" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0d5d0jT4baNKPK9-l3e-107" target="m0d5d0jT4baNKPK9-l3e-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-107" value="明初江南&lt;br&gt;地方建筑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2020" y="400" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-110" value="明代江南&lt;br&gt;地方建筑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="320" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="m0d5d0jT4baNKPK9-l3e-114" value="南宋江南地方建筑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
