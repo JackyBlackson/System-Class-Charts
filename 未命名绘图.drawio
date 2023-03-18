@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-18T02:16:47.195Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="YvY8R-mA6LpLQGwDb88O" version="21.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-18T02:18:57.957Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="qrJe-buwZG6zbW_2oFQy" version="21.0.7" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1969" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3580" dy="2087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,7 +40,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="460" y="460" />
-              <mxPoint x="460" y="660" />
+              <mxPoint x="460" y="861" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -99,8 +99,8 @@
         <mxCell id="JV1y3e_D9aL5zyxWiam7-130" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="JV1y3e_D9aL5zyxWiam7-127" target="JV1y3e_D9aL5zyxWiam7-128">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="320" y="840" />
-              <mxPoint x="165" y="840" />
+              <mxPoint x="320" y="1040" />
+              <mxPoint x="125" y="1040" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -112,8 +112,8 @@
         <mxCell id="JV1y3e_D9aL5zyxWiam7-137" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="JV1y3e_D9aL5zyxWiam7-127" target="JV1y3e_D9aL5zyxWiam7-134">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="520" y="840" />
-              <mxPoint x="715" y="840" />
+              <mxPoint x="520" y="1040" />
+              <mxPoint x="715" y="1040" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -125,7 +125,7 @@
         <mxCell id="JV1y3e_D9aL5zyxWiam7-144" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="JV1y3e_D9aL5zyxWiam7-127" target="JV1y3e_D9aL5zyxWiam7-96">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="380" y="660" />
+              <mxPoint x="380" y="861" />
               <mxPoint x="380" y="460" />
             </Array>
           </mxGeometry>
@@ -135,27 +135,14 @@
             <mxPoint y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JV1y3e_D9aL5zyxWiam7-152" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="JV1y3e_D9aL5zyxWiam7-127" target="JV1y3e_D9aL5zyxWiam7-147">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="460" y="860" />
-              <mxPoint x="460" y="980" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JV1y3e_D9aL5zyxWiam7-154" value="账号查询&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;账号信息&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;账号数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JV1y3e_D9aL5zyxWiam7-152">
-          <mxGeometry x="-0.1" relative="1" as="geometry">
-            <mxPoint y="10" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="JV1y3e_D9aL5zyxWiam7-127" value="BiliBili&lt;br&gt;账号服务" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="320" y="660" width="200" height="200" as="geometry" />
+          <mxGeometry x="320" y="860" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="JV1y3e_D9aL5zyxWiam7-131" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.001;entryY=0.119;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="JV1y3e_D9aL5zyxWiam7-128" target="JV1y3e_D9aL5zyxWiam7-127">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="165" y="680" />
-              <mxPoint x="320" y="680" />
+              <mxPoint x="125" y="880" />
+              <mxPoint x="320" y="880" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -165,14 +152,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JV1y3e_D9aL5zyxWiam7-128" value="账号申诉用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="110" y="730" width="30" height="60" as="geometry" />
+          <mxGeometry x="110" y="930" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JV1y3e_D9aL5zyxWiam7-138" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="JV1y3e_D9aL5zyxWiam7-134">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="680" as="targetPoint" />
+            <mxPoint x="520" y="880" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="676" y="680" />
-              <mxPoint x="520" y="680" />
+              <mxPoint x="676" y="880" />
+              <mxPoint x="520" y="880" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -182,23 +169,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JV1y3e_D9aL5zyxWiam7-134" value="账号管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="700" y="730" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JV1y3e_D9aL5zyxWiam7-153" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="JV1y3e_D9aL5zyxWiam7-147" target="JV1y3e_D9aL5zyxWiam7-127">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="380" y="980" />
-              <mxPoint x="380" y="860" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JV1y3e_D9aL5zyxWiam7-155" value="账号状态&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;账号数据&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;账号历史信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JV1y3e_D9aL5zyxWiam7-153">
-          <mxGeometry x="0.13" relative="1" as="geometry">
-            <mxPoint y="13" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JV1y3e_D9aL5zyxWiam7-147" value="BiliBili&lt;br&gt;游戏业务" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="320" y="980" width="200" height="160" as="geometry" />
+          <mxGeometry x="700" y="930" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
