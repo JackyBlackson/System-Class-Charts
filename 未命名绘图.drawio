@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-03-22T09:38:47.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="Lp4lfGQjfGeMA6mDV-yI" version="21.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-22T09:42:54.816Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="KY26JL0iUyN8aEgtukoY" version="21.0.7" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1116" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="720" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="E25kTCLpdvgFFOZKCK6b-2" value="BiliBili&lt;br&gt;账号服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="320" y="860" width="200" height="200" as="geometry" />
+        </mxCell>
         <mxCell id="E25kTCLpdvgFFOZKCK6b-1" value="BiliBili&lt;br&gt;视频服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="320" y="90" width="200" height="370" as="geometry" />
         </mxCell>
@@ -51,7 +54,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="460" y="460" />
-              <mxPoint x="460" y="861" />
+              <mxPoint x="460" y="860" />
             </Array>
             <mxPoint x="420" y="460" as="sourcePoint" />
             <mxPoint x="420" y="860" as="targetPoint" />
@@ -125,7 +128,7 @@
         </mxCell>
         <mxCell id="JV1y3e_D9aL5zyxWiam7-133" value="账号申诉状态&lt;br&gt;账号状态&lt;br&gt;账号信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JV1y3e_D9aL5zyxWiam7-130" vertex="1" connectable="0">
           <mxGeometry x="-0.2397" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-25" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JV1y3e_D9aL5zyxWiam7-137" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" target="JV1y3e_D9aL5zyxWiam7-134" edge="1">
@@ -139,7 +142,7 @@
         </mxCell>
         <mxCell id="JV1y3e_D9aL5zyxWiam7-139" value="申诉账号信息&lt;br&gt;申诉原因&lt;br&gt;申诉材料&lt;br&gt;账号历史记录信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JV1y3e_D9aL5zyxWiam7-137" vertex="1" connectable="0">
           <mxGeometry x="0.0014" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JV1y3e_D9aL5zyxWiam7-144" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" edge="1">
@@ -157,29 +160,28 @@
             <mxPoint y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JV1y3e_D9aL5zyxWiam7-131" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.001;entryY=0.119;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="JV1y3e_D9aL5zyxWiam7-128" edge="1">
+        <mxCell id="JV1y3e_D9aL5zyxWiam7-131" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="JV1y3e_D9aL5zyxWiam7-128" target="E25kTCLpdvgFFOZKCK6b-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="125" y="880" />
-              <mxPoint x="320" y="880" />
+              <mxPoint x="125" y="910" />
             </Array>
             <mxPoint x="319.79999999999995" y="883.8" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JV1y3e_D9aL5zyxWiam7-132" value="账号信息&lt;br&gt;申诉原因&lt;br&gt;申诉材料" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JV1y3e_D9aL5zyxWiam7-131" vertex="1" connectable="0">
           <mxGeometry x="0.4374" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-31" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JV1y3e_D9aL5zyxWiam7-128" value="账号申诉用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="110" y="930" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JV1y3e_D9aL5zyxWiam7-138" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="JV1y3e_D9aL5zyxWiam7-134" edge="1">
+        <mxCell id="JV1y3e_D9aL5zyxWiam7-138" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#ffe6cc;strokeColor=#d79b00;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="JV1y3e_D9aL5zyxWiam7-134" edge="1" target="E25kTCLpdvgFFOZKCK6b-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="520" y="880" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="676" y="880" />
-              <mxPoint x="520" y="880" />
+              <mxPoint x="715" y="910" />
+              <mxPoint x="520" y="910" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -190,9 +192,6 @@
         </mxCell>
         <mxCell id="JV1y3e_D9aL5zyxWiam7-134" value="账号管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="700" y="930" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="E25kTCLpdvgFFOZKCK6b-2" value="BiliBili&lt;br&gt;账号服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="320" y="860" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
